@@ -1,6 +1,6 @@
 module.exports = {
   branches: "release",
-  repositoryUrl: "https://github.com/paulAlexSerban/tpl--clean-boilerplate",
+  repositoryUrl: "https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg",
   plugins: [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
