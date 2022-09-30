@@ -3,4 +3,4 @@
 cd "$(dirname "$0")" || exit
 
 echo "👀  Watching Next.js DevSpace" 
-npm --prefix ../frontend/devspace run develop
+npm --prefix ../backend/devspace run dev
