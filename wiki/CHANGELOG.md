@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.0.0...v1.1.0) (2022-10-01)
+
+
+### Features
+
+* **category:** add category page ([20a9184](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/20a918427b24366fb3923c997178d374c6014116))
+* **category:** added category sidebar ([54a4fd7](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/54a4fd75cb7a52fda072fc14cc8ccba7c0d400eb))
+* **export:** added export script ([5748271](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/5748271a576002a10baab222be62ec264fa3045a))
+
 # 1.0.0 (2022-10-01)
 
 
