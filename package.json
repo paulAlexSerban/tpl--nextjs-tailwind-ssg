@@ -1,6 +1,6 @@
 {
-  "name": "tpl--clean-boilerplate",
-  "version": "1.0.1",
+  "name": "tpl--nextjs-tailwind-ssg",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
