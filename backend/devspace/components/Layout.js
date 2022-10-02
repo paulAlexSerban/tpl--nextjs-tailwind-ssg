@@ -1,5 +1,6 @@
 import Head from "next/head";
-import Header from "@/components/Header"
+import Header from "@/components/Header";
+import Search from "@/components/Search";
 
 export default function Layout({ title, keywords, description, children }) {
   return (
@@ -10,7 +11,8 @@ export default function Layout({ title, keywords, description, children }) {
         <meta name="keywords" content={keywords} />
         <meta name="description" content={description} />
       </Head>
-      <Header/>
+      <Header />
+      <Search />
       <main className="container mx-auto my-7">{children}</main>
     </div>
   );
@@ -19,5 +21,5 @@ export default function Layout({ title, keywords, description, children }) {
 Layout.defaultProps = {
   title: "Welcome to DevSpace",
   keywords: "development coding, programming",
-  description: "The best info and news in development"
-}
+  description: "The best info and news in development",
+};
