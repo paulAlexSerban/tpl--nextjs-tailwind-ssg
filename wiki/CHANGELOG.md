@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.3.1...v1.3.2) (2022-10-02)
+
+
+### Bug Fixes
+
+* **ci:** aws amplify issues ([70ef871](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/70ef871b6b1b98ad65d0e8912416088483021edf))
+
 ## [1.3.1](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.3.0...v1.3.1) (2022-10-02)
 
 
