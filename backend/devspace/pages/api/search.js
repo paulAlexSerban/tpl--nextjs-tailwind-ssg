@@ -8,7 +8,8 @@ export default function handler(req, res) {
   let posts;
 
   if (process.env.NODE_ENV === "production") {
-    // @todo - cache from cache
+    // Fetch from ./cache
+    posts = requrie('../../cache/data.js').posts
   } else {
     const files = fs.readdirSync(path.join("posts"));
     posts = files.map((filename) => {
