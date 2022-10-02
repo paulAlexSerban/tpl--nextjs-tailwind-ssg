@@ -3,3 +3,4 @@
 
 npm run lint
 npm run test
+bash scripts/backend-devspace-cache-posts.bash && git add backend/devspace/cache
