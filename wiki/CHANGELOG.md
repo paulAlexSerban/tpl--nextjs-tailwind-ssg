@@ -1,3 +1,12 @@
+# [1.3.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.2.0...v1.3.0) (2022-10-02)
+
+
+### Features
+
+* **cache:** added post cache scripts ([b334c6c](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/b334c6cf43b0b5bd378aff0a115fb0c8b36bf63c))
+* **cache:** test ([83ccbc9](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/83ccbc9c954b0b0d3161ee636c5a5ed0d21eecec))
+* **cache:** test ([7c2852f](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/7c2852f0451e0ebb17b0ea475ab3c5a5c3ef9146))
+
 # [1.2.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.1.0...v1.2.0) (2022-10-02)
 
 
