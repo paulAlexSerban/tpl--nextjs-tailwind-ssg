@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.1.0...v1.2.0) (2022-10-02)
+
+
+### Features
+
+* **search:** implement search ([e65c7ee](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/e65c7ee44116dc6ac897675c3fac105a6487e0db))
+
 # [1.1.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.0.0...v1.1.0) (2022-10-01)
 
 
