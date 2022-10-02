@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.3.0...v1.3.1) (2022-10-02)
+
+
+### Bug Fixes
+
+* **scripts:** update build script ([dbcc6e2](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/commit/dbcc6e2079f6344a5c4ec10077df44b58cf99eb1))
+
 # [1.3.0](https://github.com/paulAlexSerban/tpl--nextjs-tailwind-ssg/compare/v1.2.0...v1.3.0) (2022-10-02)
 
 
