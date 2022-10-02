@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "cache-posts": "node scripts/cache.js"
   },
   "dependencies": {
     "highlight.js": "^11.6.0",
